@@ -1,0 +1,1 @@
+Basta descompactar o arquivo .zip nesse mesmo diretório que o código funcionará (deixando o mesmo no formato .xml).
