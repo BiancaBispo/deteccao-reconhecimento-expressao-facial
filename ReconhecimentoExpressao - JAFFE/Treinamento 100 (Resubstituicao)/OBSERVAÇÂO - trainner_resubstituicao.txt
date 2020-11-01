@@ -1,0 +1,2 @@
+Já que o arquivo está muito grande, o mesmo foi convertido para a pasta compactada. 
+Basta descompactar o arquivo .zip nesse mesmo diretório que o código funcionará (deixando o mesmo no formato .xml).
