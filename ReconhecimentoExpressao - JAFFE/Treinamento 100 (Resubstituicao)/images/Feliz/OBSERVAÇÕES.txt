@@ -1,0 +1,3 @@
+As imagens utilizadas para o treinamento foram retiras para a público do algoritmo.
+Levando em consideração possíveis direitos autorais, as imagens utilizadas para treinamento foram retiradas.
+Seu uso é estritamente acadêmico.
